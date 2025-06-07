@@ -4,30 +4,20 @@ MarketMetrics is a data-driven project designed to analyze product pricing trend
 
 🔍 Features
 SQL queries for:
-
-Calculating average sale prices by category and brand
-
-Ranking top-priced products within each category
-
-Computing running averages for dynamic price tracking
+1.Calculating average sale prices by category and brand
+2.Ranking top-priced products within each category
+3.Computing running averages for dynamic price tracking
 
 Jupyter Notebook analysis with:
-
-Cleaned and structured data exploration
-
-Graphical representations using Seaborn and Matplotlib
-
-Business insights derived from pricing and category-level trends
+1.Cleaned and structured data exploration
+2.Graphical representations using Seaborn and Matplotlib
+3.Business insights derived from pricing and category-level trends
 
 🛠 Technologies Used
-MySQL
-
-Python (Pandas, Seaborn, Matplotlib)
-
+MySQL , Python (Pandas, Seaborn, Matplotlib)
 Jupyter Notebook
 
 📁 Files Included
 MarketMetrics.sql — SQL scripts for analytical queries
-
 MarketMetrics_Project.ipynb — Python notebook with data visualizations and insights
 
